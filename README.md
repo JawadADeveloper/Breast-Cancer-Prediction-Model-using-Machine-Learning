@@ -99,6 +99,9 @@ The dataset used is the Breast Cancer Wisconsin (Diagnostic) Dataset. It contain
     ```
 
    Open a web browser and navigate to `http://127.0.0.1:5000/` to access the application.
+   
+### Contribution
+Feel free to contribute to this project by submitting issues or pull requests. For detailed contribution guidelines, please refer to the CONTRIBUTING.md file.
 
 ## Example
 
@@ -137,5 +140,3 @@ sns.heatmap(conf_matrix_df, annot=True, fmt='d', cmap='Blues')
 plt.title('Confusion Matrix')
 plt.show()
 
-# Contribution
-Feel free to contribute to this project by submitting issues or pull requests. For detailed contribution guidelines, please refer to the CONTRIBUTING.md file.
